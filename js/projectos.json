@@ -33,7 +33,7 @@
             "tegnologia": "HTML,VITE,JAVASCRIPT,TAILWIND",
             "descipcion": "Maquetación web de una tienda de comidas para un restaurante total mente responsiva y con su carrito de compras",
             "foto": "4.png",
-            "url": "https://www.google.com"
+            "url": "https://desarrolladorescga.github.io/tiendaReact/"
         },
         {   
             "id": 2,
@@ -41,7 +41,7 @@
             "tegnologia": "HTML,VITE,JAVASCRIPT,TAILWIND",
             "descipcion": "Maquetación Dashboard funcional para tikets entre otras funcionalidades como configuración, cantidad de tiques, color dark y total responsiva",
             "foto": "2.png",
-            "url": "https://www.google.com"
+            "url": "https://desarrolladorescga.github.io/dashboardReact/"
         }
     ],
     "java": [
