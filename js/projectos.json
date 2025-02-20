@@ -1,14 +1,39 @@
 {
     "maquetacion": [
         {
-            "nombre": "hola",
-            "tegnologia": "html",
-            "descipcion": ""
+            "nombre": "Web Cafe",
+            "tegnologia": "HTML, CSS, JAVASCRIPT, JQUERY",
+            "descipcion": "Sitio web para una tienda de café, la cual tiene su carta de productos, los productos y ubicación, total responsiva ",
+            "foto": "1.png",
+            "url": "https://desarrolladorescga.github.io/cafeMaquetacion/"
         },
         {
-            "nombre": "hola",
-            "tegnologia": "html",
-            "descipcion": ""
+            "nombre": "Web Servicios",
+            "tegnologia": "HTML,CSS,BOOTSTRAP,JAVASCRIPT",
+            "descipcion": "Sitio web para la cual tiene sus card de productos, los productos y comentarios, total responsiva",
+            "foto":"7.png",
+            "url":"https://desarrolladorescga.github.io/sitio1Maquetacion/"
+        },
+        {
+            "nombre": "Web Galeria",
+            "tegnologia": "HTML,CSS,BOOTSTRAP,JAVASCRIPT",
+            "descipcion": "Sitio web es una galería de imágenes y carrusel de imágenes y barra de navegación, total responsiva",
+            "foto":"8.png",
+            "url":"https://desarrolladorescga.github.io/sitio2Maquetacion/"
+        },
+        {
+            "nombre": "Encriptador",
+            "tegnologia": "HTML,CSS,JAVASCRIPT",
+            "descipcion": "Encriptador de textos y también cumple con el fin de des encriptar los mismos con JavaScript para realizar las funciones  ",
+            "foto":"9.png",
+            "url":"https://desarrolladorescga.github.io/encriptadorMaquetacion/"
+        },
+        {
+            "nombre": "Juego del ahorcado",
+            "tegnologia": "HTML,CSS,JAVASCRIPT",
+            "descipcion": "Proyecto web creado con JavaScript para jugar el cual debe adivinar las palabras para ganar",
+            "foto":"10.png",
+            "url":"https://desarrolladorescga.github.io/juegoMaquetacion/"
         }
     ],
     "wordpress": [
@@ -40,7 +65,7 @@
             "nombre": "Dashboard",
             "tegnologia": "HTML,VITE,JAVASCRIPT,TAILWIND",
             "descipcion": "Maquetación Dashboard funcional para tikets entre otras funcionalidades como configuración, cantidad de tiques, color dark y total responsiva",
-            "foto": "2.png",
+            "foto": "6.png",
             "url": "https://desarrolladorescga.github.io/dashboardReact/"
         }
     ],
