@@ -41,14 +41,11 @@
     ],
     "angular": [
         {
-            "nombre": "hola",
-            "tegnologia": "html",
-            "descipcion": ""
-        },
-        {
-            "nombre": "hola",
-            "tegnologia": "html",
-            "descipcion": ""
+            "nombre": "Copia Youtube",
+            "tegnologia": "HTML,CSS,BOOTSTRAP5,TYPESCRIPT",
+            "descipcion": "Maquetacion de un sitio como youtube, total responvibe para los diferentes dispositivos ",
+            "foto":"11.png",
+            "url":"https://desarrolladorescga.github.io/youtubeAngular/"
         }
     ],
     "react": [
